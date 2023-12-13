@@ -1,0 +1,7 @@
+site_name: Mehmet Fatih SOLAK
+nav:
+  - Home: index.md
+  - Konular:
+    - Güvenlik Denetimleri ve Testleri: assignment.md
+    - Güncel Ağ Güvenliği Sorunları ve Çözümleri: assignment1.md
+    
